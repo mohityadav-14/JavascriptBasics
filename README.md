@@ -42,3 +42,33 @@ console.log(b);
 
 const c = 30; // block scope
 console.log(c);
+## 🟢 Data Types in JavaScript
+
+JavaScript data types are divided into **Primitive** and **Non-Primitive** types.
+
+---
+
+### 🔹 Primitive Data Types
+
+Primitive data types store **single values** and are **immutable**.
+
+| Type | Description |
+|-----|-------------|
+| String | Textual data |
+| Number | Numeric values |
+| Boolean | true / false |
+| Undefined | Variable declared but not assigned |
+| Null | Intentional empty value |
+| BigInt | Large integers |
+| Symbol | Unique identifier |
+
+```js
+let string = "hello";
+let num = 23;
+let boolean = true;
+let un = undefined;
+let n = null;
+let bigint = 21525558568345346n;
+const sym1 = Symbol("description");
+
+console.log(string, num, boolean, un, n, bigint, sym1);
