@@ -42,6 +42,8 @@ console.log(b);
 
 const c = 30; // block scope
 console.log(c);
+
+
 ## 🟢 Data Types in JavaScript
 
 JavaScript data types are divided into **Primitive** and **Non-Primitive** types.
