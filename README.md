@@ -56,10 +56,14 @@ They are mainly divided into **Primitive** and **Non-Primitive (Reference)** dat
 Primitive data types store **single, immutable values**.  
 They are stored **by value**.
 
-### 1️⃣ String
-Used to store text.
-
+#### Example:
 ```js
 let string = "hello";
+let num = 23;
+let boolean = true;
+let un = undefined;
+let n = null;
+let bigint = 21525558568345346n;
+const sym1 = Symbol("description");
 
 console.log(string, num, boolean, un, n, bigint, sym1);
