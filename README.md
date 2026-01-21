@@ -320,7 +320,7 @@ i++
 }
 
 ```
-### Do while loop:similer to while while loop but run at least if condition is false 
+### Do while loop: similar to while loop but run at least if condition is false 
 ```
 let j=0;
 do{
