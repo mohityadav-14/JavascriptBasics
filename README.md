@@ -560,7 +560,7 @@ myPromise().then((result)=>{
  
  users()
  ```
-
+...
 
 ### ⭐ Author
 
